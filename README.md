@@ -89,7 +89,7 @@ This board package can be installed via the board manager in arduino. The boards
 
 ### Setting up the IDE
 
-1. Open the file **bsides-exeter-2025-badge.ino** in arduino
+1. Open the file **firmware.ino** in arduino
 2. Select tools > Board > megaTinyCore > ATtiny412/402/212/202
 3. Select tools > Chip > ATtiny412
 4. Select tools > Clock > 16Mhz internal *(it wont turn off TVs otherwise)*
